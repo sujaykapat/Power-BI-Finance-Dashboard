@@ -14,4 +14,5 @@ In this project I have worked on to analyze
 
 5.Where/how do he spends?
 
-![image](https://user-images.githubusercontent.com/104999123/200179976-65e5514c-b88f-4b8c-90d7-608aa02ce451.png)
+![image](https://user-images.githubusercontent.com/104999123/201529046-236cd57f-7915-4d30-b373-65fba1fcd859.png)
+
